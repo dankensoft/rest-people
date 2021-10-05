@@ -8,6 +8,15 @@
       "role": "Administrador",
       "email": "jane.cooper@example.com",
       "status": "Activo"
+    },
+    {
+      "id": 2, 
+      "name": "Mildred Smith",
+      "title": "Técnico Senior Soporte",
+      "department": "Tecnología",
+      "role": "Miembro",
+      "email": "mildred.smith@example.com",
+      "status": "Activo",
     }
   ]
 }
