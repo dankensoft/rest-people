@@ -7,7 +7,7 @@
       "department": "Optimización",
       "role": "Administrador",
       "email": "jane.cooper@example.com",
-      "status": "Activo",
+      "status": "Activo"
     },
     {
       "id": 2, 
@@ -16,7 +16,7 @@
       "department": "Tecnología",
       "role": "Miembro",
       "email": "mildred.smith@example.com",
-      "status": "Activo",
+      "status": "Activo"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "department": "DevOps",
       "role": "Administrador",
       "email": "leonel.madrid@example.com",
-      "status": "Activo",
+      "status": "Activo"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "department": "Desarrollo",
       "role": "Miembro",
       "email": "jorge.guerra@example.com",
-      "status": "Activo",
+      "status": "Activo"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "department": "Desarrollo",
       "role": "Miembro",
       "email": "keller.matta@example.com",
-      "status": "Activo",
+      "status": "Activo"
     }
   ]
 }
