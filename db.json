@@ -16,7 +16,7 @@
       "department": "Tecnología",
       "role": "Miembro",
       "email": "mildred.smith@example.com",
-      "status": "Activo"
+      "status": "Inactivo"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "department": "Desarrollo",
       "role": "Miembro",
       "email": "jorge.guerra@example.com",
-      "status": "Activo"
+      "status": "Inactivo"
     },
     {
       "id": 5,
