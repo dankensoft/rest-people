@@ -17,6 +17,33 @@
       "role": "Miembro",
       "email": "mildred.smith@example.com",
       "status": "Activo"
+    },
+    {
+      "id": 3,
+      "name": "Leonel Madrid",
+      "title": "Fullstack Leader",
+      "department": "DevOps",
+      "role": "Administrador",
+      "email": "leonel.madrid@example.com",
+      "status": "Activo"
+    },
+    {
+      "id": 4,
+      "name": "Jorge Guerra",
+      "title": "Leader Senior FrontEnd",
+      "department": "Desarrollo",
+      "role": "Miembro",
+      "email": "jorge.guerra@example.com",
+      "status": "Activo"
+    },
+    {
+      "id": 5,
+      "name": "Keller Matta",
+      "title": "Leader Senior BackEnd",
+      "department": "Desarrollo",
+      "role": "Miembro",
+      "email": "keller.matta@example.com",
+      "status": "Activo"
     }
   ]
 }
